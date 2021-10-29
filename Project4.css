@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+body {background:#534F78; font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif"} 
+legend {background-color: #fff;}
+div {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+  background-color:#333333
+}
+
+a {
+  float: left;
+}
+
+a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: #000000;
+}
